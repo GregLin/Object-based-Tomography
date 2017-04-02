@@ -3,5 +3,5 @@ This is a Python implementation of the algorithms in "Object-based Traveltime To
 
 ## Requirements
 You will need Python 3.4+ and the following packages:
---numpy
---shapely
+  *numpy
+  *shapely
